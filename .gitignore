@@ -1,0 +1,20 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+.env/
+
+# Cache do Python e Flask
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+instance/
+
+# Variáveis de ambiente (Segredos)
+.env
+
+# Configurações de IDEs e SO
+.vscode/
+.idea/
+.DS_Store
